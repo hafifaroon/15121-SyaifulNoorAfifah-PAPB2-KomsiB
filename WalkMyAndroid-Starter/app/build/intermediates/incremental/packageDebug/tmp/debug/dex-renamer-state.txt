@@ -1,0 +1,4 @@
+#Thu Apr 02 22:00:01 ICT 2020
+base.0=E\:\\SEMESTER 4\\Tugas PAPB2\\WalkMyAndroid-Starter\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
